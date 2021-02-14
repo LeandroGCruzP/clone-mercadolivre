@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
 
-import Product from "../Product";
+import Product from '../Product';
 
-import { Container, Wrapper } from "./styles";
+import { Container, Wrapper } from './styles';
 
 const Layout: React.FC = () => {
   return (
