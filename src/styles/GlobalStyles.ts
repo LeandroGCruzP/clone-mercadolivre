@@ -16,7 +16,7 @@ export default createGlobalStyle`
   *, button, input {
     border: 0;
     background: none;
-    font-family: 'Montserrat', -apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-family: 'Montserrat',-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
   }
   :root {
     --color-primary: #F5F5F5;
