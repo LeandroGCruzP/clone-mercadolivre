@@ -19,8 +19,8 @@ const Product: React.FC = () => {
   return (
     <Container>
       <Row>
-        <a href="#">Compartilhar</a>
-        <a href="#">Vender um igual</a>
+        <a href="">Compartilhar</a>
+        <a href="">Vender um igual</a>
       </Row>
 
       <Panel>
@@ -60,7 +60,7 @@ const WarrantySection = () => (
       </span>
     </div>
 
-    <a href="#">Saiba mais sobre garantia</a>
+    <a href="">Saiba mais sobre garantia</a>
   </Section>
 );
 
