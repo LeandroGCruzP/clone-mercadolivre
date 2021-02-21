@@ -37,8 +37,6 @@ const Product: React.FC = () => {
           <SellerInfo />
 
           <WarrantySection />
-          <WarrantySection />
-          <WarrantySection />
         </Column>
       </Panel>
     </Container>
@@ -64,10 +62,10 @@ const WarrantySection = () => (
 
     <a href="#">Saiba mais sobre garantia</a>
   </Section>
-)
+);
 
 const Info = () => (
-<Description>
+  <Description>
     <h2>Descrição</h2>
 
     <p>
@@ -93,8 +91,6 @@ const Info = () => (
       repellendus consectetur?
     </p>
   </Description>
-)
-
-
+);
 
 export default Product;
